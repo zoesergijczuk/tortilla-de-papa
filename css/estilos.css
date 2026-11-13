@@ -1,0 +1,16 @@
+h1 {
+     background: #FFE47D;
+     text-decoration: underline;
+     font-family: 'Montserrat';
+     text-align: center;
+     color: red
+    }
+.amarillo { color: #FFE224;
+            font-family: 'Playfair Display'
+          }
+.naranja { color: orange;
+           font-family: 'Georgia'
+         }
+         body {
+           background-color: #FFF7E8;
+         }
